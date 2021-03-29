@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Aswin
+### Hi there 👋 I'm Aswin, An Embedded Systems Enthusiast
 
 <!--
 **Aswinvt/aswinvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -12,9 +12,9 @@
   - [x] [ESP modules](https://github.com/Aswinvt/ESP32)
 
 - 📝 I’m currently learning
-  - [ ] Embedded machine learning
+  - [x] Embedded machine learning
   - [x] Python programming language
-  - [ ] Rust programming language
+  - [x] Rust programming language
 
 <br />
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aswinvt&show_icons=true&include_all_commits=true&theme=radical" alt="Aswin's github stats" />

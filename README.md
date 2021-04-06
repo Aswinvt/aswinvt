@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Aswin!](https://in.linkedin.com/in/aswin-vt), a passionate self-taught Embedded Systems Engineer.
+### Hi there 👋 I'm [Aswin!](https://www.linkedin.com/in/aswin-vt), a passionate self-taught Embedded Systems Engineer.
 
 - 💻 I’m currently diving deep into microcontrollers and firmware development
   - [x] [8051 Microcontrollers](https://github.com/Aswinvt/Embedded_Systems_Basics/tree/master/Learn_Basics/8051_AT89S8253)

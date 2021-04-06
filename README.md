@@ -1,19 +1,12 @@
-### Hi there 👋 I'm Aswin, An Embedded Systems Enthusiast
+### Hi there 👋 I'm [Aswin!](https://in.linkedin.com/in/aswin-vt), a passionate self-taught Embedded Systems Engineer.
 
-<!--
-**Aswinvt/aswinvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I’m currently diving deep into microcontrollers and firmware development
+- 📝 I’m currently learning
+  - Embedded machine learning
+  - Python programming language
+  - Rust programming language
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 <br />
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aswinvt&show_icons=true&include_all_commits=true&theme=radical" alt="Aswin's github stats" />

@@ -17,7 +17,7 @@
   - [x] Rust programming language
 
 <br />
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aswinvt&show_icons=true&include_all_commits=true&theme=radical" alt="Aswin's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswinvt&show_icons=true&include_all_commits=true&theme=radical" alt="Aswin's github stats" />
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinvt&layout=compact&theme=radical" />
 <br />

@@ -19,7 +19,7 @@
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aswinvt&show_icons=true&include_all_commits=true&theme=radical" alt="Aswin's github stats" />
 <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinvt&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aswinvt&layout=compact&theme=radical" />
 <br />
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
